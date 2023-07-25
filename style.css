@@ -429,7 +429,8 @@ ul p{
     .location,
     .panel-options p,
     ul a,
-    .lang {
+    .lang,
+    .foot-panel4 {
         display:none;
     }
     .nav-search{
@@ -519,10 +520,6 @@ ul p{
     }
     hr{
         display: none;
-    }
-    .foot-panel4{
-        height: 3.5rem;
-        line-height: normal;
     }
     .foot-last{
         font-size: 0.6rem;
