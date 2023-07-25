@@ -163,7 +163,7 @@ h2{
 }
 .box0{
     height:6.5rem;
-    width:8.2rem;
+    width:8rem;
     display:inline-flex;
     background-size: cover;
     background-repeat: no-repeat;
@@ -292,7 +292,7 @@ ul p{
     align-items: center;
     font-size: 0.75rem;
 }
-@media (max-width: 768px) {
+@media (min-width: 768px) and (max-width:1250px) {
     .navbar {
         height: 3rem;
         width:100%;
@@ -347,7 +347,7 @@ ul p{
     }
     .box0{
         height:5.8rem;
-        width:5.8rem;
+        width:6.2rem;
     }
     .mainbox {
         height: 3rem;
@@ -361,7 +361,7 @@ ul p{
     }
     .box2img, .box3img, .boxr2img, .boxr2img{
         height: 12.7rem ;
-        width: 12.3rem;
+        width: 13.1rem;
         margin-left: 0.55rem;
     }
     .exp{
@@ -462,7 +462,7 @@ ul p{
     }
     .box0{
         height:7rem;
-        width:9.6rem;
+        width:9.5rem;
     }
     .mainbox {
         height: 3rem;
