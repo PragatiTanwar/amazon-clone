@@ -443,6 +443,7 @@ ul p{
     }
     .nav-cart i {
         font-size: 1rem;
+        margin-right: 0.2rem;
     }
     .prime-day {
         height: 2rem;
@@ -461,7 +462,7 @@ ul p{
     }
     .box0{
         height:7rem;
-        width:9rem;
+        width:10.8rem;
     }
     .mainbox {
         height: 3rem;
@@ -475,7 +476,7 @@ ul p{
     }
     .box2img, .box3img, .boxr2img, .boxr2img{
         height: 17rem ;
-        width: 19.5rem;
+        width: 21.5rem;
         margin-left: 0.55rem;
     }
     .exp{
